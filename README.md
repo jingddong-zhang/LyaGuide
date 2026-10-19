@@ -1,4 +1,4 @@
-# Lyapunov Guidance of Flow Matching (Submitted to ICML 2026)
+# Lyapunov Guidance of Flow Matching 
 
 
 ---
